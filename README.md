@@ -102,6 +102,13 @@ Content-Type: application/json
 DELETE /orders/:id
 ```
 
+## Testing
+
+Run tests:
+   ```bash
+   npm run test
+   ```
+
 ## Architecture & Design Decisions
 
 ### Service Communication
